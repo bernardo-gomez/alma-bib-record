@@ -6,7 +6,7 @@
      - marcxml ,<br>
      - marcedit ( see http://marcedit.reeset.net/features ),<br>
      - text . format created by bernardo gomez. record delimiter is &quot;*****&quot;. subfield delimiter <br>
-              is &quot;\\p&quot;
+              is &quot;\\\p&quot;
               example: 
                   ******
                   100|10|\\\paAuthor
