@@ -15,7 +15,7 @@
   apikey=<alma's apikey>
 
   __author__ = "bernardo gomez"
-  __date__ = " february 2016"
+  __date__ = " february, 2016"
 
 """
 import os
@@ -31,7 +31,7 @@ from datetime import date, timedelta
 def google_analytics():
   """ for emory use only. kristian needs this. """
   print "<script>"
-  print "window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date; ga('create', 'UA-61756900-23', 'auto');"
+  print "window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date; ga('create', 'UA-xxxxxxx-xx', 'auto');"
 
   print "ga('send', 'pageview');"
   print "</script>"
