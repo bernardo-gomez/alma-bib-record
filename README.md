@@ -9,9 +9,9 @@
               is &quot;\\\p&quot;
               example: <br>
               <pre>
-                  ******<br>
-                  100|10|\\\paAuthor <br>
-                  245|01|\\\paTitle <br>
+                  ******
+                  100|10|\\\paAuthor
+                  245|01|\\\paTitle
                </pre>
  <br>
  </p>
