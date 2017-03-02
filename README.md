@@ -1,5 +1,5 @@
 # alma-bib-record
- </br>
+ <br>
  <p width="600px">
  web service that receives an alma mms_id and it produces the corresponding MARC record in one of three formats.
  formats:
@@ -11,6 +11,9 @@
                   ******
                   100|10|\\paAuthor
                   245|01|\\paTitle
+ <br>
+ </p>
+ <p width="600px">
  web service script works as CGI, and it expects a configuration file as a command line argument.
  configuration file content:
  sys_email=&quot;bgomez@emory.edu&quot;
