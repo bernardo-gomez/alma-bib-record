@@ -5,8 +5,8 @@
  formats:<br>
      - marcxml ,<br>
      - marcedit ( see http://marcedit.reeset.net/features ),<br>
-     - text . format created by bernardo gomez. record delimiter is &apos;\*\*\*\*\*&apos;  subfield delimiter <br>
-              is &quot;\\\p&quot;
+     - text . format created by bernardo gomez. record delimiter is &apos;\*\*\*\*\*&apos;  ;<br>subfield delimiter 
+              is &quot;\\\p&quot; <br>
               example: <br>
               <pre>
                   ********
