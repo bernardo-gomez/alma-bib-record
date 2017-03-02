@@ -8,9 +8,11 @@
      - text . format created by bernardo gomez. record delimiter is &quot;*****&quot;. subfield delimiter <br>
               is &quot;\\\p&quot;
               example: <br>
+              <pre>
                   ******<br>
                   100|10|\\\paAuthor <br>
                   245|01|\\\paTitle <br>
+               </pre>
  <br>
  </p>
  <p width="600px">
