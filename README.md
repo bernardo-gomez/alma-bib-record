@@ -7,10 +7,10 @@
      - marcedit ( see http://marcedit.reeset.net/features ),<br>
      - text . format created by bernardo gomez. record delimiter is &quot;*****&quot;. subfield delimiter <br>
               is &quot;\\\p&quot;
-              example: 
-                  ******
-                  100|10|\\\paAuthor
-                  245|01|\\\paTitle
+              example: <br>
+                  ******<br>
+                  100|10|\\\paAuthor <br>
+                  245|01|\\\paTitle <br>
  <br>
  </p>
  <p width="600px">
