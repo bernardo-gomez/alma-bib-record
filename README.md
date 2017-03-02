@@ -2,10 +2,10 @@
  <br>
  <p width="600px">
  web service that receives an alma mms_id and it produces the corresponding MARC record in one of three formats.
- formats:
-     - marcxml ,
-     - marcedit ( see http://marcedit.reeset.net/features ),
-     - text . format created by bernardo gomez. record delimiter is &quot;*****&quot;. subfield delimiter
+ formats:<br>
+     - marcxml ,<br>
+     - marcedit ( see http://marcedit.reeset.net/features ),<br>
+     - text . format created by bernardo gomez. record delimiter is &quot;*****&quot;. subfield delimiter <br>
               is &quot;p\\&quot;
               example: 
                   ******
