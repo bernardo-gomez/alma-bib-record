@@ -15,9 +15,9 @@
  </p>
  <p width="600px">
  web service script works as CGI, and it expects a configuration file as a command line argument.
- configuration file content:
- sys_email=&quot;bgomez@emory.edu&quot;
-apikey=&lt;your alma apikey here&gt;
-api_host=https://api-na.hosted.exlibrisgroup.com
+ configuration file content: <br>
+ sys_email=&quot;admin@someplace.edu&quot; <br>
+apikey=&lt;your alma apikey here&gt; <br>
+api_host=https://api-na.hosted.exlibrisgroup.com <br>
  </p>
    
