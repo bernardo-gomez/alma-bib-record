@@ -9,7 +9,7 @@
               is &quot;\\\p&quot; <br>
               example: <br>
               <pre>
-                  ********
+                  ******
                   100|10|\\\paAuthor
                   245|01|\\\paTitle
                </pre>
