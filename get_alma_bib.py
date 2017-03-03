@@ -3,9 +3,9 @@
 """
   Web service that receives a list of one or more alma mms_ids separated by commas; it retrieves
   the bibliographic record from ALMA's api server and it displays the record to the web client in
-  one of three formats: "marcxml", "marcedit" or "text".
+  one of three formats: "xml", "marcedit" or "text".
   "text" format is home-grown display of MARC records developed by bernardo gomez. the default format
-  is marcxml.
+  is xml.
   example of a request against emory's alma catalog:
   https://libapiproxyprod1.library.emory.edu/cgi-bin/get_alma_bib?doc_id=990022633760302486&format=marcedit 
   webservice 
