@@ -13,7 +13,6 @@
                   100|10|\\\paAuthor
                   245|01|\\\paTitle
                </pre>
- <br>
  </p>
  <p width="600px">
  web service script works as CGI, and it expects a configuration file as a command line argument.
