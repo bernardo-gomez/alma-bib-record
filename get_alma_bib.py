@@ -8,7 +8,7 @@
   is xml.
   example of a request against emory's alma catalog:
   https://libapiproxyprod1.library.emory.edu/cgi-bin/get_alma_bib?doc_id=990022633760302486&format=marcedit 
-  webservice 
+  
   this program expects a configuration file, as a command line argument, with the following lines:
   sys_email= (if script reports fatal failures to admins. not used in this version.)
   api_host=https://api-na.hosted.exlibrisgroup.com
