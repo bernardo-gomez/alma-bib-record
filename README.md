@@ -3,7 +3,7 @@
  <p width="600px">
  web service that receives an alma mms_id and it produces the corresponding MARC record in one of three formats.
  formats:<br>
-     - marcxml ,<br>
+     - xml ,<br>
      - marcedit ( see http://marcedit.reeset.net/features ),<br>
      - text . format created by bernardo gomez. record delimiter is &apos;\*\*\*\*\*&apos;  ;<br>subfield delimiter 
               is &quot;\\\p&quot; <br>
