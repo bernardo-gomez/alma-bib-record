@@ -14,10 +14,11 @@
   api_host=https://api-na.hosted.exlibrisgroup.com
   apikey=<alma's apikey>
 
-  __author__ = "bernardo gomez"
-  __date__ = " february, 2016"
-
+ 
 """
+__author__ = "bernardo gomez"
+__date__ = " february, 2016"
+
 import os
 import sys 
 import re
