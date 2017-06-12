@@ -170,7 +170,7 @@ def marcxml_to_text(xml_string):
           value=str(cfield.text)
        except:
           value="FIX ME PLEASE"
-       field=attribute['tag']+"|  |"+value
+       field=attribute['tag']+"||"+value
        control_field.append(field)
     try:
        datafield_element=record_element.findall("datafield")
@@ -214,7 +214,7 @@ def marcxml_to_text(xml_string):
        sys.stderr.write("xml parsing failed. couldn't find subfield"+"\n")
        return text,outcome
     text="******\n"
-    text+="000|  |"+leader+"\n"
+    text+="000||"+leader+"\n"
     for cf in control_field:
        text+=cf+"\n"
     for df in data_field:
